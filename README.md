@@ -1,5 +1,5 @@
 Technologies Used:
 
-Node js,express,jsonwebtoken
+Node js, express, jsonwebtoken
 
 Database: MongoDB
